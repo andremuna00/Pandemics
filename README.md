@@ -116,3 +116,4 @@ Historical disease data from validated medical literature.
 
 - 📅 Presented at: Berlin, 13/03/2018
 - 🔝 Acknowledgment: Math.en.Jeans initiative
+- [Read the full paper here](https://pls.scienze.unipd.it/matematica/wp-content/uploads/sites/3/2018/07/2018.-MJ-Casagrande.-Articolo-pandemia-1.pdf)
