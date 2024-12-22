@@ -4,6 +4,8 @@
 
 This project explores the mathematical and computational modeling of pandemics using a numerical/statistical approach. It investigates the spread of infectious diseases through simulated frameworks, incorporating parameters such as infection probability, healing probability, and mortality rate. The project evaluates strategies like vaccination and movement restrictions to mitigate the impact of pandemics.
 
+![image](https://github.com/user-attachments/assets/df83c22a-9953-4ed3-b77b-31961d29e0db)
+
 ## 👥 Authors and Contributors
 
 ### 🔵 Students
